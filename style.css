@@ -1,0 +1,20 @@
+.navbar-brand img{width:50px; height: 50px;}
+.footer-list{
+    display: flex;
+    color:white;
+}
+.footer-column ul{
+    list-style: none;
+    
+}
+.footer-list a{
+    text-decoration: none;
+    color: white;
+
+}
+.footer-list a:hover{
+    text-decoration: underline;
+}
+.footer-list{
+    justify-content: space-between;
+}
